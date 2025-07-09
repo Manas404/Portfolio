@@ -104,7 +104,7 @@ body {
     left: 0;
     width: 0;
     height: 2px;
-    background: #2563eb;
+    background:#2563eb;
     transition: width 0.3s ease;
 }
 
@@ -295,7 +295,7 @@ section {
 
 /* About Section */
 .about {
-    background: #f8fafc;
+    background: linear-gradient(33deg, rgba(242,242,255,1) 0%, rgba(235,249,255,1) 100%);
 }
 
 .about-content {
@@ -408,7 +408,7 @@ section {
     margin-top: 2rem;
 }
 .certificate-item {
-    background: #fff;
+    background:  linear-gradient(33deg, rgba(242,242,255,1) 0%, rgba(235,249,255,1) 100%);
     border-radius: 10px;
     box-shadow: 0 2px 12px rgba(37,99,235,0.07);
     padding: 1.2rem 1rem 1rem 1rem;
@@ -546,7 +546,7 @@ section {
 
 /* Skills Section */
 .skills {
-    background: #f8fafc;
+    background:  linear-gradient(33deg, rgba(242,242,255,1) 0%, rgba(235,249,255,1) 100%);;
 }
 
 .skills-content {
